@@ -1,5 +1,5 @@
 <h3 align="center">
-  🧬 Bioinformatics | 💻 Systems Development
+  🧬 Bioinformatics | 📊 Data Analysis | 💻 Systems Development
 </h3>
 
 <h4 align="center">
