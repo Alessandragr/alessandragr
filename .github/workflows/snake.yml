@@ -23,6 +23,10 @@ jobs:
         with:
           github_user_name: Alessandragr
           outputs: dist/snake.svg?palette=github-dark
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          color_snake: "#6e5494"  # Cor da cobrinha (roxo)
+          color_dots: "#c6c6c6"   # Cor dos pontos (cinza claro)
+          color_bg: "transparent" # Fundo transparente
 
 
       - name: push snake.svg to the output branch
