@@ -1,6 +1,10 @@
 <h3 align="center">
-  # 🧬 Bioinformatics | 📊 Data Analysis | 💻 Systems Development |  Driven by challenges and endless curiosity.
+  # 🧬 Bioinformatics | 📊 Data Analysis | 💻 Systems Development
 </h3>
+
+<h4 align="center">
+  Driven by challenges and endless curiosity.
+</h4>
 
 
 ####
