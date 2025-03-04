@@ -1,4 +1,9 @@
-### 🧬 Bioinformatics & data enthusiast |  Driven by challenges and endless curiosity.
+<div align="center">
+  🧬 Bioinformatics | 📊 Data Analysis | 💻 Systems Development |  Driven by challenges and endless curiosity.
+</div>
+
+
+--
 
 ###
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
